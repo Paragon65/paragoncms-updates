@@ -5,5 +5,5 @@
   "zipUrl": "https://github.com/Paragon65/paragoncms-updates/releases/latest/download/ParagonCMS.zip",
   "sha256": "",
   "restartMode": "next-launch",
-  "notes": "Initial GitHub feed"
+  "notes": "Initial production release"
 }
