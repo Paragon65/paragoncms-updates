@@ -1,0 +1,9 @@
+{
+  "app": "ParagonCMS",
+  "latestVersion": "1.0.0",
+  "publishedUtc": "2025-12-16T00:00:00Z",
+  "zipUrl": "https://github.com/Paragon65/paragoncms-updates/releases/latest/download/ParagonCMS.zip",
+  "sha256": "",
+  "restartMode": "next-launch",
+  "notes": "Initial GitHub feed"
+}
