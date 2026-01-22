@@ -10,10 +10,9 @@
     Version="1.0.0.0"
     Uri="https://github.com/Paragon65/paragoncms-updates/releases/download/V1.0.0/ParagonCMS_1.0.0.0.appxbundle" />
 
-  <UpdateSettings>
+    <UpdateSettings>
     <OnLaunch HoursBetweenUpdateChecks="6" />
     <AutomaticBackgroundTask />
-    <ForceUpdateFromAnyVersion>true</ForceUpdateFromAnyVersion>
   </UpdateSettings>
 
 </AppInstaller>
