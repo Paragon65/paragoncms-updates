@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+  xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2"
+  Version="1.0.0.0"
+  Uri="https://updates.goparagondigital.com/ParagonCMS.appinstaller">
+
+  <MainBundle
+    Name="15b8ef16-2180-4ae8-b101-7c337e635235"
+    Publisher="CN=Ayaz"
+    Version="1.0.0.0"
+    Uri="https://github.com/Paragon65/paragoncms-updates/releases/download/V1.0.0/ParagonCMS_1.0.0.0.appxbundle" />
+
+  <UpdateSettings>
+    <OnLaunch HoursBetweenUpdateChecks="6" />
+    <AutomaticBackgroundTask />
+    <ForceUpdateFromAnyVersion>true</ForceUpdateFromAnyVersion>
+  </UpdateSettings>
+
+</AppInstaller>
