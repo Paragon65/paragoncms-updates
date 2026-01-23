@@ -8,7 +8,7 @@
     Name="15b8ef16-2180-4ae8-b101-7c337e635235"
     Publisher="CN=Paragon Digital"
     Version="1.0.0.0"
-    Uri="https://github.com/Paragon65/paragoncms-updates/releases/download/V1.0.0/ParagonCMS_1.0.0.0.appxbundle" />
+    Uri="https://paragoncmsupdates.blob.core.windows.net/updates/ParagonCMS_1.0.0.0.appxbundle" />
 
     <UpdateSettings>
     <OnLaunch HoursBetweenUpdateChecks="6" />
